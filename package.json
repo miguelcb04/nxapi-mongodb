@@ -13,5 +13,10 @@
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"
-  }
+  },
+  "description": "> Next API with MongoDB",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
